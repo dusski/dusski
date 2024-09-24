@@ -4,8 +4,7 @@
 
 [Castit](https://castitsignage.com)<br/>
 [Future Forward](https://futureforward.nl)<br/>
-[Digital Reception](https://digitalreception.app)<br/>
-[Digitale Receptie](https://digitalereceptie.app)<br/>
+[Digital Reception](https://digitalreception.app) | [Digitale Receptie](https://digitalereceptie.app)<br/>
 and [GuideLites.](https://guidelites.com)<br/>
 
 We do touchscreen solutions for everyone. Check it out on [Touchscreen.](https://touchscreen.nl)
