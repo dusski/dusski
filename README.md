@@ -1,13 +1,15 @@
 ## Welcome | Bienvenue | ようこそ | مرحبا | Добродошли
 
-**Software developer at Future Forward**
+**Software developer at StorifyMe**
 
+<!-- 
 [Castit](https://castitsignage.com)<br/>
 [Future Forward](https://futureforward.nl)<br/>
 [Digital Reception](https://digitalreception.app) | [Digitale Receptie](https://digitalereceptie.app)<br/>
 and [GuideLites.](https://guidelites.com)<br/>
 
 We do touchscreen solutions for everyone. Check it out on [Touchscreen.](https://touchscreen.nl)
+-->
 
 <!--
 **dusski/dusski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
